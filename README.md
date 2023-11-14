@@ -1,4 +1,2 @@
 # DSC180A-Methodology-4
-
-Ethan Shapiro
-enshapir@ucsd.edu
+Ethan Shapiro and Abel Seyoum
